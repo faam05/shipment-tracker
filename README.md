@@ -2,6 +2,14 @@
 
 A simple Transport Shipment Tracker Web App built with **React**, **Zustand**, and **TailwindCSS**. This project demonstrates a basic implementation of a shipment tracking system with features like listing shipments, viewing details, and assigning transporters.
 
+---
+
+## Live Demo
+
+🌐 **[https://shipment-tracker.mfadhilfadholi.my.id/](https://shipment-tracker.mfadhilfadholi.my.id/)**
+
+---
+
 ## Project Structure
 
 ```
